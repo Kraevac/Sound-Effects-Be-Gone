@@ -9,7 +9,7 @@ Sound Effects Be Gone
 
 ## 🆚 Version
 `v1.0.0`  
-**Date:** 2025-08-08
+**Date:** 2025-11-19
 
 ---
 
